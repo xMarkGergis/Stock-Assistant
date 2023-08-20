@@ -255,7 +255,7 @@ if user_input:
 
             if function_name in ['get_stock_price', 'calculate_rsi', 'calculate_macd', 'plot_stock_price']: # prepares arguments dictionary based on function type.
                 args_dict = {'ticker': function_args.get('ticker')}
-            else:
+            elif function_name in ['calculate_sma', 'calculate_ema']:
                 args_dict = {'ticker': function_args.get('ticker'), 'window': function_args.get('window')}
 
             function_to_call = available_functions[function_name] #  fetchs reference to function to be called
