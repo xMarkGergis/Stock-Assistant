@@ -7,10 +7,15 @@ BearBullBuddy is a Streamlit application that provides real-time stock informati
 
 ## Current Features
 • Retrieve the latest stock price for a given company.
+
 • Calculate and display Simple Moving Averages (SMA) and Exponential Moving Averages (EMA) for a stock.
+
 • Calculate and display the Relative Strength Index (RSI) for a stock.
+
 • Calculate and display the Moving Average Convergence Divergence (MACD) for a stock.
+
 • Generate a plot of the stock price over the last year.
+
 • Utilize OpenAI's GPT-3 to interactively communicate with the assistant.
 
 ## Usage
