@@ -17,14 +17,18 @@ Utilize OpenAI's GPT-3 to interactively communicate with the assistant.
 
 1. Install the required Python libraries using the following command:
 
-### pip install openai pandas matplotlib streamlit yfinance
-
-2. Set up your OpenAI API key by creating a file named `API_KEY` and placing your API key inside it.
-
-3. Run the `StockAssistant.py` script using the following command:
-
-### streamlit run StockAssistant.py
+    ```
+    pip install openai pandas matplotlib streamlit yfinance
+    ```
     
+3. Set up your OpenAI API key by creating a file named `API_KEY` and placing your API key inside it.
+
+4. Run the `StockAssistant.py` script using the following command:
+
+    ```
+    streamlit run StockAssistant.py
+    ```
+   
 ## Visuals
 
 
