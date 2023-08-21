@@ -37,4 +37,4 @@ BearBullBuddy is a Streamlit application that provides real-time stock informati
 ## Visuals
 ![exmple1](https://github.com/xMarkGergis/Stock-Assistant/assets/121286835/b89c2998-3b02-45ff-aa05-2147e9c0d622)
 ![exmple2](https://github.com/xMarkGergis/Stock-Assistant/assets/121286835/be2273ac-e196-4f79-9744-8fdff2af4fff)
-
+![exmple3](https://github.com/xMarkGergis/Stock-Assistant/assets/121286835/fab1a27c-cb92-4e86-88ca-94e9931b03bc)
